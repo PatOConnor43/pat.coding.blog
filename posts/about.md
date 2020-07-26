@@ -13,7 +13,7 @@
 >       target=desktop,
 >       leak=156px
 
-> :Hero src=https://images.unsplash.com/photo-1508780709619-79562169bc64?w=1200&h=600&fit=crop,
+> :Hero src=https://images.unsplash.com/photo-1496281488047-dfb3c44cd701?w=1200&h=600&fit=crop,
 >       mode=dark,
 >       target=mobile,
 >       leak=96px
