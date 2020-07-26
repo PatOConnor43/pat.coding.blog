@@ -1,0 +1,116 @@
+{
+  "init": [
+    {
+      "name": "initJssCs",
+      "filename": "/home/runner/work/pat.coding.blog/pat.coding.blog/.codedoc/node_modules/@codedoc/core/dist/es6/transport/setup-jss.js",
+      "hash": "ij3YFKkXhcBrIawFsHNZgA=="
+    },
+    {
+      "name": "installTheme",
+      "filename": "/home/runner/work/pat.coding.blog/pat.coding.blog/.codedoc/content/theme.ts",
+      "hash": "M+b7E6abxgnQJpWG4dkjwQ=="
+    },
+    {
+      "name": "countCards",
+      "filename": "/home/runner/work/pat.coding.blog/pat.coding.blog/.codedoc/node_modules/@codedoc/coding-blog-plugin/dist/es5/components/article-card/count-cards.js",
+      "hash": "qXrJCTjcBMAWY0YBRXhVsw=="
+    },
+    {
+      "name": "codeSelection",
+      "filename": "/home/runner/work/pat.coding.blog/pat.coding.blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/selection.js",
+      "hash": "3c68ml7bWUxqJHYQg11gTg=="
+    },
+    {
+      "name": "sameLineLengthInCodes",
+      "filename": "/home/runner/work/pat.coding.blog/pat.coding.blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/same-line-length.js",
+      "hash": "myTJ8aUA7WWOGmT6CALMSw=="
+    },
+    {
+      "name": "initHintBox",
+      "filename": "/home/runner/work/pat.coding.blog/pat.coding.blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-hint/index.js",
+      "hash": "neKEXrgjy0pQ6I/m+h3b/A=="
+    },
+    {
+      "name": "initCodeLineRef",
+      "filename": "/home/runner/work/pat.coding.blog/pat.coding.blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-ref/index.js",
+      "hash": "CocFM6W3fPIbj8eHzyfZ2g=="
+    },
+    {
+      "name": "initSmartCopy",
+      "filename": "/home/runner/work/pat.coding.blog/pat.coding.blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/smart-copy.js",
+      "hash": "PqlbHq1M/eb2Y2I24sEXBQ=="
+    },
+    {
+      "name": "copyHeadings",
+      "filename": "/home/runner/work/pat.coding.blog/pat.coding.blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/heading/copy-headings.js",
+      "hash": "2nI/gALB7Q9Ijcsch4tB6A=="
+    },
+    {
+      "name": "contentNavHighlight",
+      "filename": "/home/runner/work/pat.coding.blog/pat.coding.blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/contentnav/highlight.js",
+      "hash": "jQ6s0K+xffzhNGmR7/m6/Q=="
+    },
+    {
+      "name": "loadDeferredIFrames",
+      "filename": "/home/runner/work/pat.coding.blog/pat.coding.blog/.codedoc/node_modules/@codedoc/core/dist/es6/transport/deferred-iframe.js",
+      "hash": "SRzvUy9tcRwHLIAH+UeCBA=="
+    },
+    {
+      "name": "smoothLoading",
+      "filename": "/home/runner/work/pat.coding.blog/pat.coding.blog/.codedoc/node_modules/@codedoc/core/dist/es6/transport/smooth-loading.js",
+      "hash": "InvwR359+hRjA0AcJTFGdQ=="
+    },
+    {
+      "name": "tocHighlight",
+      "filename": "/home/runner/work/pat.coding.blog/pat.coding.blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toc-highlight.js",
+      "hash": "cUXB3TfIqLj7k6eu0uWCaQ=="
+    },
+    {
+      "name": "postNavSearch",
+      "filename": "/home/runner/work/pat.coding.blog/pat.coding.blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/search/post-nav/index.js",
+      "hash": "gxjHLTWHh3LLAlIOOkiIGA=="
+    },
+    {
+      "name": "copyLineLinks",
+      "filename": "/home/runner/work/pat.coding.blog/pat.coding.blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-links/copy-line-link.js",
+      "hash": "sFYHZ4u1I2OjJwlnjsLXcw=="
+    }
+  ],
+  "components": [
+    {
+      "name": "ToCToggle",
+      "filename": "/home/runner/work/pat.coding.blog/pat.coding.blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toggle/index.js",
+      "hash": "SRkXEsxGbX6VLunxBqSQow=="
+    },
+    {
+      "name": "DarkModeSwitch",
+      "filename": "/home/runner/work/pat.coding.blog/pat.coding.blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/darkmode/index.js",
+      "hash": "kj7zAYkoBnvqY3hPII2fcw=="
+    },
+    {
+      "name": "ConfigTransport",
+      "filename": "/home/runner/work/pat.coding.blog/pat.coding.blog/.codedoc/node_modules/@codedoc/core/dist/es6/transport/config.js",
+      "hash": "Js4hBQIKPwUwaKIMg5aTgA=="
+    },
+    {
+      "name": "Author",
+      "filename": "/home/runner/work/pat.coding.blog/pat.coding.blog/.codedoc/node_modules/@codedoc/coding-blog-plugin/dist/es5/components/author/index.js",
+      "hash": "iqLJaERbvNRXgBbvq3zWLQ=="
+    },
+    {
+      "name": "ArticleCard",
+      "filename": "/home/runner/work/pat.coding.blog/pat.coding.blog/.codedoc/node_modules/@codedoc/coding-blog-plugin/dist/es5/components/article-card/index.js",
+      "hash": "Sx7NVEaWGMGFASU/fALIyw=="
+    },
+    {
+      "name": "ToCPrevNext",
+      "filename": "/home/runner/work/pat.coding.blog/pat.coding.blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js",
+      "hash": "E0Aeb6MsWlOoo2Fgj4oOQw=="
+    }
+  ],
+  "renderer": {
+    "name": "getRenderer",
+    "filename": "/home/runner/work/pat.coding.blog/pat.coding.blog/.codedoc/node_modules/@codedoc/core/dist/es6/transport/renderer.js",
+    "hash": "AW/pk9+/99ymG/90UsJrOg=="
+  }
+}
