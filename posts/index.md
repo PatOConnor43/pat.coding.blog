@@ -9,11 +9,11 @@
 
 > :Title
 >
-> Sample Blog
+> pat.coding.blog
 
-This is a sample homepage for your [`coding.blog`](https://coding.blog). You can use
-it to showcase your latest / most-important blog posts (or whatever suites your case).
-You can modify its content by editting `posts/index.md`.
+Welcome to pat.coding.blog. The point of this blog is a space to put some of my
+notes and document some of the cool things I find. Hopefully, you can find
+something useful in my garbage. 😉
 
 ---
 
@@ -21,31 +21,23 @@ You can modify its content by editting `posts/index.md`.
 
 So here are the latest posts:
 
-> :ArticleCard src=/sample-blog-post, style=box
+> :ArticleCard src=/about, style=box
 
-> :ArticleCard src=/sample-blog-post, style=box
+> :ArticleCard src=/about, style=box
 
-> :ArticleCard src=/sample-blog-post
+> :ArticleCard src=/about
 
-> :ArticleCard src=/sample-blog-post
+> :ArticleCard src=/about
 
 ---
 
-# Docs
+# Get In Touch
 
-`coding.blog` is based on [**CODEDOC**](https://codedoc.cc). Checkout the official documentations
-of **CODEDOC** to learn more about how it works and how you can utilize it to create your blog.
+> :Button label=Github, url=https://github.com/patoconnor43
 
-> :Buttons
-> > :Button label=CODEDOC Docs, url=https://codedoc.cc
+> :Button label=Gitlab, url=https://gitlab.com/patoconnor43
 
-Additionally, this boilerplate uses [`coding.blog` Plugin for **CODEDOC**](https://github.com/CONNECT-platform/coding-blog-plugin),
-which offers components and functionality specifically designed around writing blog-posts
-and publishing them to `coding.blog`. Checkout the documentation of that plugin to learn more
-about the tools at your displosal for blogging.
-
-> :Buttons
-> > :Button label=Plugin Docs, url=https://connect-platform.github.io/coding-blog-plugin/
+> :Button label=Twitter, url=https://twitter.com/patoconnor43
 
 <br><br>
 
