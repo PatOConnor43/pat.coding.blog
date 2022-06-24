@@ -14,18 +14,18 @@ import { smoothLoading } from '/home/runner/work/pat.coding.blog/pat.coding.blog
 import { tocHighlight } from '/home/runner/work/pat.coding.blog/pat.coding.blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toc-highlight.js';tocHighlight();
 import { postNavSearch } from '/home/runner/work/pat.coding.blog/pat.coding.blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/search/post-nav/index.js';postNavSearch();
 import { copyLineLinks } from '/home/runner/work/pat.coding.blog/pat.coding.blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-links/copy-line-link.js';copyLineLinks();
-import { Author } from '/home/runner/work/pat.coding.blog/pat.coding.blog/.codedoc/node_modules/@codedoc/coding-blog-plugin/dist/es5/components/author/index.js';
 import { ToCToggle } from '/home/runner/work/pat.coding.blog/pat.coding.blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toggle/index.js';
 import { DarkModeSwitch } from '/home/runner/work/pat.coding.blog/pat.coding.blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/darkmode/index.js';
 import { ConfigTransport } from '/home/runner/work/pat.coding.blog/pat.coding.blog/.codedoc/node_modules/@codedoc/core/dist/es6/transport/config.js';
+import { Author } from '/home/runner/work/pat.coding.blog/pat.coding.blog/.codedoc/node_modules/@codedoc/coding-blog-plugin/dist/es5/components/author/index.js';
 import { ArticleCard } from '/home/runner/work/pat.coding.blog/pat.coding.blog/.codedoc/node_modules/@codedoc/coding-blog-plugin/dist/es5/components/article-card/index.js';
 import { ToCPrevNext } from '/home/runner/work/pat.coding.blog/pat.coding.blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js';
 
 const components = {
-  'iqLJaERbvNRXgBbvq3zWLQ==': Author,
   'SRkXEsxGbX6VLunxBqSQow==': ToCToggle,
   'kj7zAYkoBnvqY3hPII2fcw==': DarkModeSwitch,
   'Js4hBQIKPwUwaKIMg5aTgA==': ConfigTransport,
+  'iqLJaERbvNRXgBbvq3zWLQ==': Author,
   'Sx7NVEaWGMGFASU/fALIyw==': ArticleCard,
   'E0Aeb6MsWlOoo2Fgj4oOQw==': ToCPrevNext
 };

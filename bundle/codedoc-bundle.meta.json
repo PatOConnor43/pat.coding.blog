@@ -78,11 +78,6 @@
   ],
   "components": [
     {
-      "name": "Author",
-      "filename": "/home/runner/work/pat.coding.blog/pat.coding.blog/.codedoc/node_modules/@codedoc/coding-blog-plugin/dist/es5/components/author/index.js",
-      "hash": "iqLJaERbvNRXgBbvq3zWLQ=="
-    },
-    {
       "name": "ToCToggle",
       "filename": "/home/runner/work/pat.coding.blog/pat.coding.blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toggle/index.js",
       "hash": "SRkXEsxGbX6VLunxBqSQow=="
@@ -96,6 +91,11 @@
       "name": "ConfigTransport",
       "filename": "/home/runner/work/pat.coding.blog/pat.coding.blog/.codedoc/node_modules/@codedoc/core/dist/es6/transport/config.js",
       "hash": "Js4hBQIKPwUwaKIMg5aTgA=="
+    },
+    {
+      "name": "Author",
+      "filename": "/home/runner/work/pat.coding.blog/pat.coding.blog/.codedoc/node_modules/@codedoc/coding-blog-plugin/dist/es5/components/author/index.js",
+      "hash": "iqLJaERbvNRXgBbvq3zWLQ=="
     },
     {
       "name": "ArticleCard",
